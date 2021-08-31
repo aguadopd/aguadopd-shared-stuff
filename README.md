@@ -6,7 +6,7 @@ Sirva este lugar para guardar cosas que algún día pueda querer compartir, o qu
 plagiándome. De paso, las hace descubribles. Hasta ahora, cuando he querido compartir algo, he tenido que buscar en
 diversos lugares (disco muy desordenado, GDrive, GitHub, GitLab, mail...) y luego ver de qué forma lo envío. Habla mal
 de mis políticas de organización y respaldo, pero así están las cosas. Mientras tanto, sirva esto para tener algo, y
-como un medio más de respaldo. Y sirva de /portfolio/.
+como un medio más de respaldo. Y sirva de _portfolio_.
 
 
 ## Listado
@@ -62,7 +62,22 @@ becario de IAESTE. _Compartido con permiso_.
 
 
 
+
 ### /vinci
+
+En el Instituto Vinci enseñamos tecnologías, emprendimiento y conciencia social, por medio del aprendizaje basado en
+proyectos. La iteración al momento de escribir esto [se llama](https://www.instagram.com/vinciu_/) [VinciU](https://vinciu.com/).
+
+#### [vinci/aguadopd-vinci-intro-videos-2018.mp4](vinci/aguadopd-vinci-intro-videos-2018.mp4)
+Intro para algunos videos que creamos. Yo no hice la animación.
+
+#### [vinci/aguadopd-vinci-publicidad-youtube-1-shooting-2018.mp4](vinci/aguadopd-vinci-publicidad-youtube-1-shooting-2018.mp4)
+Corto publicitario apuntado a los chicos. Obra maestra.
+
+#### ToDo
+- Tutoriales impresión
+- Webs cursos?
+
 
 
 
