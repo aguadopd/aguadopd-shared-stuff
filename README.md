@@ -48,6 +48,14 @@ Informe del II Desafío de Robótica San Juan.
 
 ### /iaeste-karunya
 
+Informe y presentación sobre el trabajo de investigación que hice en la Universidad de Karunya durante mi pasantía como
+becario de IAESTE. _Compartido con permiso_.
+
+**Face Recognition for Automatic Class Attendance System --- Reconocimiento Facial para un Sistema Automático de Control de Asistencia a Clases**
+
+#### [iaeste-karunya/aguadopd-iaeste-karunya-report-2015.pdf](iaeste-karunya/aguadopd-iaeste-karunya-report-2015.pdf)
+#### [iaeste-karunya/aguadopd-iaeste-karunya-report-presentation-2015.pdf](iaeste-karunya/aguadopd-iaeste-karunya-report-presentation-2015.pdf)
+
 
 
 ### /unsj
