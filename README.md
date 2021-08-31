@@ -31,7 +31,7 @@ Informe de mi trabajo durante las Becas de Verano 2017 del Instituto Balseiro.
 
 ### /gerunsj
 
-El GERUNSJ es el Grupo Estudiantil de Robótica de la USNJ, un espacio extracurricular en el que alumnos de la UNSJ idean
+El [GERUNSJ](https://github.com/GERUNSJ/deteccion-de-personas-con-turtlebot-y-opencv-1) es el [Grupo Estudiantil de Robótica de la Universidad Nacional de San Juan](http://www.facebook.com/GERUNSJ), un espacio extracurricular en el que alumnos de la UNSJ idean
 y llevan a cabo proyectos relacionados con la robótica, la electrónica y materias afines. En él intentamos aplicar los
 conocimientos aprendidos y expresar nuestra creatividad más allá de lo que las actividades curriculares nos exigen.
 
@@ -51,7 +51,8 @@ Informe del II Desafío de Robótica San Juan.
 Informe y presentación sobre el trabajo de investigación que hice en la Universidad de Karunya durante mi pasantía como
 becario de IAESTE. _Compartido con permiso_.
 
-**Face Recognition for Automatic Class Attendance System --- Reconocimiento Facial para un Sistema Automático de Control de Asistencia a Clases**
+**Face Recognition for Automatic Class Attendance System --- Reconocimiento Facial para un Sistema Automático de Control
+de Asistencia a Clases**
 
 #### [iaeste-karunya/aguadopd-iaeste-karunya-report-2015.pdf](iaeste-karunya/aguadopd-iaeste-karunya-report-2015.pdf)
 #### [iaeste-karunya/aguadopd-iaeste-karunya-report-presentation-2015.pdf](iaeste-karunya/aguadopd-iaeste-karunya-report-presentation-2015.pdf)
@@ -60,7 +61,58 @@ becario de IAESTE. _Compartido con permiso_.
 
 ### /unsj
 
+Informes y algunas cosas complejas que hice durante mis estudios de Ingeniería Electrónica en la UNSJ.
 
+#### [unsj/sonido/aguadopd-unsj-sonido-ti-2016.pdf](unsj/sonido/aguadopd-unsj-sonido-ti-2016.pdf)
+Trabajo integrador de la materia Acústica y sistemas de sonido.
+
+> En este trabajo se presenta un sistema para la evaluación sistemática de algoritmos de reconocimiento de vocales. Se
+> presentan dos algoritmos habituales para la extracción de formantes y se evalúan con el sistema elaborado, sobre una
+> pequeña base de datos de vocales.
+
+Fuentes en https://github.com/aguadopd/avi_evaluacion_reconocimiento_formantes .
+
+
+#### [unsj/teleco1/aguadopd-unsj-teleco1-resumen-2015.pdf](unsj/teleco1/aguadopd-unsj-teleco1-resumen-2015.pdf)
+Resumen para rendir Telecomunicaciones 1.
+
+#### [unsj/teleco2/aguadopd-unsj-teleco2-pi-2015.pdf](unsj/teleco2/aguadopd-unsj-teleco2-pi-2015.pdf)
+Informe del proyecto integrador de Telecomunicaciones 2: **Recepción de imágenes de satélites meteorológicos a través
+del sistema APT**.
+
+#### unsj/tfinal/
+
+Cosas de mi trabajo final de graduación **Una estrategia para la clasificación óptica de almendras**.
+
+> En este trabajo se diseñó y desarrolló un programa informático para la clasificación automática de almendras peladas
+> mediante procesamiento de imágenes, analizando diversas características de forma y de color. Para ensayarlo se
+> construyó un prototipo de sistema de visión artificial con el cual se creó un conjunto de 564 imágenes de almendras y
+> otros objetos. El conjunto de imágenes fue etiquetado manualmente en base a las normas de la Comisión Económica de las
+> Naciones Unidas para Europa (UNECE) para el comercio de almendras. Los resultados del clasificador desarrollado son
+> similares a los obtenidos con algoritmos de clasificación estándar, como máquinas de soporte vectorial o _Boosted
+> Trees_. Los descriptores elegidos permiten clasificar binariamente el conjunto con una exactitud global de 93 %.
+
+- [unsj/tfinal/aguadopd-unsj-tfinal-2017.pdf](unsj/tfinal/aguadopd-unsj-tfinal-2017.pdf)
+- [unsj/tfinal/aguadopd-unsj-tfinal-presentacion-2017.pdf](unsj/tfinal/aguadopd-unsj-tfinal-presentacion-2017.pdf)
+
+
+#### [unsj/vision/aguadopd-unsj-vision-ti-2016.pdf](unsj/vision/aguadopd-unsj-vision-ti-2016.pdf)
+Informe del trabajo integrador para la materia Visión Artificial.
+
+> Se planteó como objetivo principal del proyecto realizar la detección de personas desde un robot móvil con un grado
+> aceptable de aciertos. Para ello se probaron la eficiencia y eficacia de distintos algoritmos que fueron implementados
+> en OpenCV sobre un robot TurtleBot, equipado con una cámara RGB+D Microsoft Kinect y trabajando bajo el sistema ROS
+> (Robot Operative System). El programa desarrollado fue luego adaptado para poder utilizarse en otras cámaras sin
+> información de profundidad, como una webcam de una PC o una minicomputadora Raspberry Pi 2 con cámara. El informe se
+> extiende sobre algunas alternativas de trabajo, conceptos de los detectores utilizados y también sobre ROS, ya que fue
+> una herramienta de uso constante. Se abordan también las pruebas realizadas, su evaluación e interpretación,
+> terminando con algunas conclusiones obtenidas y posibles mejoras.
+
+Fuentes en https://github.com/GERUNSJ/deteccion-de-personas-con-turtlebot-y-opencv-1 .
+
+#### ToDo
+
+- Identificación y Control Adaptable
 
 
 ### /vinci
@@ -85,10 +137,7 @@ Corto publicitario apuntado a los chicos. Obra maestra.
 
 - Pensar bien la estructura y mantenerlo simple porque después no vamos a poder cambiar los nombres.
 
-<<<<<<< HEAD
-=======
 
 -----------------
 
 ![](unsj/tfinal/operario.gif)
->>>>>>> 50f8e18 (gif)
