@@ -31,6 +31,19 @@ Informe de mi trabajo durante las Becas de Verano 2017 del Instituto Balseiro.
 
 ### /gerunsj
 
+El GERUNSJ es el Grupo Estudiantil de Robótica de la USNJ, un espacio extracurricular en el que alumnos de la UNSJ idean
+y llevan a cabo proyectos relacionados con la robótica, la electrónica y materias afines. En él intentamos aplicar los
+conocimientos aprendidos y expresar nuestra creatividad más allá de lo que las actividades curriculares nos exigen.
+
+#### [gerunsj/aguadopd-gerunsj-quienesfuimos-2016.pdf](gerunsj/aguadopd-gerunsj-quienesfuimos-2016.pdf)
+Documento que usábamos para presentarnos. Resumen de quienes éramos en ese entonces, qué hacíamos y qué pretendíamos.
+
+#### [gerunsj/drsj2014/aguadopd-gerunsj-drsj-2014.pdf](gerunsj/drsj2014/aguadopd-gerunsj-drsj-2014.pdf)
+Informe del I Desafío de Robótica San Juan.
+
+#### [gerunsj/drsj2015/aguadopd-gerunsj-drsj-2015.pdf](gerunsj/drsj2015/aguadopd-gerunsj-drsj-2015.pdf)
+Informe del II Desafío de Robótica San Juan.
+
 
 
 ### /iaeste-karunya
