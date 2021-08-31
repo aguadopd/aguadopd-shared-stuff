@@ -85,3 +85,10 @@ Corto publicitario apuntado a los chicos. Obra maestra.
 
 - Pensar bien la estructura y mantenerlo simple porque después no vamos a poder cambiar los nombres.
 
+<<<<<<< HEAD
+=======
+
+-----------------
+
+![](unsj/tfinal/operario.gif)
+>>>>>>> 50f8e18 (gif)
